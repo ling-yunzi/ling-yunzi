@@ -3,11 +3,11 @@
   <title>凌云子的口嗨日常</title>
   
   <subtitle>《阵痛集》</subtitle>
-  <link href="https://lingyunzi.gitee.io/atom.xml" rel="self"/>
+  <link href="https://ling_yunzi.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://lingyunzi.gitee.io/"/>
+  <link href="https://ling_yunzi.gitee.io/"/>
   <updated>2022-09-12T13:45:45.448Z</updated>
-  <id>https://lingyunzi.gitee.io/</id>
+  <id>https://ling_yunzi.gitee.io/</id>
   
   <author>
     <name>凌云子</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://lingyunzi.gitee.io/hello-world/"/>
-    <id>https://lingyunzi.gitee.io/hello-world/</id>
+    <link href="https://ling_yunzi.gitee.io/hello-world/"/>
+    <id>https://ling_yunzi.gitee.io/hello-world/</id>
     <published>2022-09-12T13:45:45.448Z</published>
     <updated>2022-09-12T13:45:45.448Z</updated>
     
